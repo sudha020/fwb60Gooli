@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var umbrellaRouter = require('./routes/umbrella');
 var addmodsRouter = require('./routes/addmods');
+var selectorRouter = require('./routes/selector');
 
 var app = express();
 
